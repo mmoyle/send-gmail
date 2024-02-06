@@ -1,0 +1,9 @@
+smtp:
+  from_email: michaeljmoyle@gmail.com
+  smtp_server: smtp.gmail.com
+  smtp_port: 465
+template:
+  new-workspace:
+    subject: 'WorkSpace details'
+  reset-password:
+    subject: 'AWS login details - Password'
